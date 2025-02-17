@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.pravallika_3152.snack5967ccdee4ad45b3aa24dca9b76881db"
     },
     "web": {
       "favicon": "./assets/favicon.png"
