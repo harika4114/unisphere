@@ -1,0 +1,1 @@
+export const api_url="http://192.168.137.110:5000"
